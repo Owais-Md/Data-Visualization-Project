@@ -36,8 +36,8 @@ Every detail of the analysis is explained in the Report, please look at the Repo
 ## 🛠️ Setup
 1. Clone the repository:
    ```sh
-   git clone <repo-url>
-   cd <repo-name>
+   git clone [<repo-url>](https://github.com/Owais-Md/Data-Visualization-Project)
+   cd Data-Visualization-Project
    ```
 2. Run the notebooks inside the respective folders.
 
